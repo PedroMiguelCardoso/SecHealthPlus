@@ -1,0 +1,110 @@
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\appsettings.Development.json
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\appsettings.json
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\TheAnimals.exe
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\TheAnimals.deps.json
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\TheAnimals.runtimeconfig.json
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\TheAnimals.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\TheAnimals.pdb
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Google.Protobuf.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\MySql.Data.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\MySqlConnector.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\ZstdSharp.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.csproj.AssemblyReference.cache
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.AssemblyInfoInputs.cache
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.AssemblyInfo.cs
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.csproj.CoreCompileInputs.cache
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.MvcApplicationPartsAssemblyInfo.cs
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.MvcApplicationPartsAssemblyInfo.cache
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\staticwebassets.build.json
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\staticwebassets.development.json
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.TheAnimals.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.build.TheAnimals.props
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TheAnimals.props
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TheAnimals.props
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\scopedcss\bundle\TheAnimals.styles.css
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.csproj.Up2Date
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\refint\TheAnimals.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.pdb
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\TheAnimals.genruntimeconfig.cache
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\obj\Debug\net8.0\ref\TheAnimals.dll
+D:\AMBIENTE DEV\C#\API_tintin\TheAnimals\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\TheAnimals\bin\Debug\net8.0\appsettings.Development.json
+D:\TheAnimals\bin\Debug\net8.0\appsettings.json
+D:\TheAnimals\bin\Debug\net8.0\TheAnimals.exe
+D:\TheAnimals\bin\Debug\net8.0\TheAnimals.deps.json
+D:\TheAnimals\bin\Debug\net8.0\TheAnimals.runtimeconfig.json
+D:\TheAnimals\bin\Debug\net8.0\TheAnimals.dll
+D:\TheAnimals\bin\Debug\net8.0\TheAnimals.pdb
+D:\TheAnimals\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\TheAnimals\bin\Debug\net8.0\Google.Protobuf.dll
+D:\TheAnimals\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\TheAnimals\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\TheAnimals\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\TheAnimals\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TheAnimals\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TheAnimals\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TheAnimals\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\TheAnimals\bin\Debug\net8.0\MySql.Data.dll
+D:\TheAnimals\bin\Debug\net8.0\MySqlConnector.dll
+D:\TheAnimals\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\TheAnimals\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TheAnimals\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TheAnimals\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TheAnimals\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TheAnimals\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TheAnimals\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TheAnimals\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TheAnimals\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TheAnimals\bin\Debug\net8.0\ZstdSharp.dll
+D:\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\TheAnimals\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\TheAnimals\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.csproj.AssemblyReference.cache
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.AssemblyInfoInputs.cache
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.AssemblyInfo.cs
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.csproj.CoreCompileInputs.cache
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.MvcApplicationPartsAssemblyInfo.cs
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.MvcApplicationPartsAssemblyInfo.cache
+D:\TheAnimals\obj\Debug\net8.0\staticwebassets.build.json
+D:\TheAnimals\obj\Debug\net8.0\staticwebassets.development.json
+D:\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.TheAnimals.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.build.TheAnimals.props
+D:\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TheAnimals.props
+D:\TheAnimals\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TheAnimals.props
+D:\TheAnimals\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TheAnimals\obj\Debug\net8.0\scopedcss\bundle\TheAnimals.styles.css
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.csproj.Up2Date
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.dll
+D:\TheAnimals\obj\Debug\net8.0\refint\TheAnimals.dll
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.pdb
+D:\TheAnimals\obj\Debug\net8.0\TheAnimals.genruntimeconfig.cache
+D:\TheAnimals\obj\Debug\net8.0\ref\TheAnimals.dll
